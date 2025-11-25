@@ -79,6 +79,10 @@ export default async function RootLayout({
           hrefLang="x-default"
           href="https://yourdomain.com"
         />
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-1886231301359804"
+        ></meta>
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1886231301359804"
